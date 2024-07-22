@@ -3,7 +3,7 @@
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU4NTg3eXcyYnV3bWZkaGVkd25qeWo5bnEwcHRvZTJjbzd5aTVuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <h1 align="center">Hi 👋, I'm Stephanie Beatrice</h1>
-<h3 align="center">A passionate software developer and aspiring DevOps Cloud engineer</h3>
+<h3 align="center">A passionate software developer and aspiring DevOps Cloud engineer documenting her tech journey</h3>
 
 - 🔭 I’m currently working on **building a WebServer using Docker**
 
